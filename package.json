@@ -1,0 +1,21 @@
+{
+  "name": "window-vue",
+  "version": "1.0.0",
+  "description": "Just do `window.Vue = Vue;`",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krysenlo/window-vue.git"
+  },
+  "keywords": [
+    "window",
+    "Vue",
+    "global"
+  ],
+  "author": "Krysenlo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Krysenlo/window-vue/issues"
+  },
+  "homepage": "https://github.com/Krysenlo/window-vue#readme"
+}
